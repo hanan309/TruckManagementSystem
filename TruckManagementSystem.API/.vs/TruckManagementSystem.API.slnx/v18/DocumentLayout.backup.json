@@ -1,0 +1,480 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AI Crackers Project\\TruckManagementSystem.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\services\\truckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\services\\truckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\repositories\\truckassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\repositories\\truckassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\services\\truckassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\services\\truckassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\services\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\services\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\services\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\services\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\repositories\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\repositories\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\repositories\\irouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\repositories\\irouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\dtos\\truckassignmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\dtos\\truckassignmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\controllers\\truckassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\controllers\\truckassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\controllers\\truckscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\controllers\\truckscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\services\\itruckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\services\\itruckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\services\\itruckassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\services\\itruckassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\repositories\\truckrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\repositories\\truckrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\repositories\\itruckassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\repositories\\itruckassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\repositories\\itruckrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\repositories\\itruckrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\models\\truckassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\models\\truckassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\dtos\\truckdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\dtos\\truckdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\dtos\\routedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\dtos\\routedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|d:\\ai crackers project\\truckmanagementsystem.api\\truckmanagementsystem.api\\truckmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA809F63-06A1-1154-2313-04EDBA3DC9D5}|TruckManagementSystem.API\\TruckManagementSystem.API.csproj|solutionrelative:truckmanagementsystem.api\\truckmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TruckAssignmentService.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Services\\TruckAssignmentService.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Services\\TruckAssignmentService.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Services\\TruckAssignmentService.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Services\\TruckAssignmentService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T04:35:47.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TruckAssignmentRepository.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Repositories\\TruckAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Repositories\\TruckAssignmentRepository.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Repositories\\TruckAssignmentRepository.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Repositories\\TruckAssignmentRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T00:32:33.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TruckService.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Services\\TruckService.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Services\\TruckService.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Services\\TruckService.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Services\\TruckService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:45:31.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoutesController.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Controllers\\RoutesController.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Controllers\\RoutesController.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Controllers\\RoutesController.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Controllers\\RoutesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T04:38:22.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteService.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Services\\RouteService.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Services\\RouteService.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Services\\RouteService.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Services\\RouteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:16:31.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRouteService.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Services\\IRouteService.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Services\\IRouteService.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Services\\IRouteService.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Services\\IRouteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T00:36:23.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteRepository.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Repositories\\RouteRepository.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Repositories\\RouteRepository.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Repositories\\RouteRepository.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Repositories\\RouteRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T14:28:51.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRouteRepository.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Repositories\\IRouteRepository.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Repositories\\IRouteRepository.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Repositories\\IRouteRepository.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Repositories\\IRouteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T14:26:33.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:35:31.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Program.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Program.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T04:48:42.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TruckAssignmentDtos.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\DTOs\\TruckAssignmentDtos.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\DTOs\\TruckAssignmentDtos.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\DTOs\\TruckAssignmentDtos.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\DTOs\\TruckAssignmentDtos.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:34:30.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TruckAssignmentsController.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Controllers\\TruckAssignmentsController.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Controllers\\TruckAssignmentsController.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Controllers\\TruckAssignmentsController.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Controllers\\TruckAssignmentsController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAgwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T04:46:10.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrucksController.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Controllers\\TrucksController.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Controllers\\TrucksController.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Controllers\\TrucksController.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Controllers\\TrucksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T04:43:18.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\appsettings.json",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\appsettings.json",
+              "RelativeToolTip": "TruckManagementSystem.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-21T04:57:32.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITruckService.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Services\\ITruckService.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Services\\ITruckService.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Services\\ITruckService.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Services\\ITruckService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:33:38.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITruckAssignmentService.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Services\\ITruckAssignmentService.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Services\\ITruckAssignmentService.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Services\\ITruckAssignmentService.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Services\\ITruckAssignmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:47:57.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TruckRepository.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Repositories\\TruckRepository.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Repositories\\TruckRepository.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Repositories\\TruckRepository.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Repositories\\TruckRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T14:40:34.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITruckAssignmentRepository.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Repositories\\ITruckAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Repositories\\ITruckAssignmentRepository.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Repositories\\ITruckAssignmentRepository.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Repositories\\ITruckAssignmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T14:44:20.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITruckRepository.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Repositories\\ITruckRepository.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Repositories\\ITruckRepository.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Repositories\\ITruckRepository.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Repositories\\ITruckRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T14:37:56.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TruckAssignment.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Models\\TruckAssignment.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Models\\TruckAssignment.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Models\\TruckAssignment.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Models\\TruckAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:31:50.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Route.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Models\\Route.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Models\\Route.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Models\\Route.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Models\\Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:30:16.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\Models\\Truck.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\Models\\Truck.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\Models\\Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:30:53.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TruckDtos.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\DTOs\\TruckDtos.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\DTOs\\TruckDtos.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\DTOs\\TruckDtos.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\DTOs\\TruckDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:32:51.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RouteDtos.cs",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\DTOs\\RouteDtos.cs",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\DTOs\\RouteDtos.cs",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\DTOs\\RouteDtos.cs",
+              "RelativeToolTip": "TruckManagementSystem.API\\DTOs\\RouteDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:33:16.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TruckManagementSystem.API.csproj",
+              "DocumentMoniker": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\TruckManagementSystem.API.csproj",
+              "RelativeDocumentMoniker": "TruckManagementSystem.API\\TruckManagementSystem.API.csproj",
+              "ToolTip": "D:\\AI Crackers Project\\TruckManagementSystem.API\\TruckManagementSystem.API\\TruckManagementSystem.API.csproj",
+              "RelativeToolTip": "TruckManagementSystem.API\\TruckManagementSystem.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T10:29:06.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
